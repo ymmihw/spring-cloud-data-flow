@@ -21,5 +21,6 @@
  <modules>
   <module>data-flow-server</module>
   <module>data-flow-shell</module>
+  <module>time-source</module>
  </modules>
 </project>
