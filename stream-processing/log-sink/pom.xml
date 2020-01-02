@@ -7,9 +7,7 @@
   <artifactId>stream-processing</artifactId>
   <version>0.0.1-SNAPSHOT</version>
  </parent>
- <groupId>com.ymmihw.spring.cloud.data.flow</groupId>
  <artifactId>log-sink</artifactId>
- <version>0.0.1-SNAPSHOT</version>
  <name>log-sink</name>
  <url>http://maven.apache.org</url>
  <properties>

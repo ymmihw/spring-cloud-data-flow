@@ -10,7 +10,6 @@
  <groupId>com.ymmihw.spring.cloud.data.flow</groupId>
  <artifactId>stream-processing</artifactId>
  <packaging>pom</packaging>
- <version>0.0.1-SNAPSHOT</version>
  <name>stream-processing</name>
  <url>http://maven.apache.org</url>
  <properties>
